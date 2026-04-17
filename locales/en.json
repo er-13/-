@@ -1,0 +1,16 @@
+{
+  "page_title": "Property Catalog",
+  "types": {
+    "villa": "Villa",
+    "duplex": "Duplex",
+    "quadplex": "Quadplex", 
+    "cottage": "Cottage",
+    "lanehouse": "Lanehouse",
+    "maisonette": "Maisonette",
+    "mansion": "Mansion",
+    "residence": "Residence",
+    "townhouse": "Townhouse",
+    "manorhouse": "Manor House",
+    "eco-house": "Eco-house"
+  }
+}

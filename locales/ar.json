@@ -1,0 +1,16 @@
+{
+  "page_title": "كتالوج العقارات",
+  "types": {
+    "villa": "فيلا",
+    "duplex": "دوبلكس",
+    "quadhouse": "كوادرو هاوس",
+    "cottage": "كوخ",
+    "lanehouse": "لين هاوس",
+    "maisonette": "ميزونيت",
+    "mansion": "قصر",
+    "residence": "إقامة",
+    "townhouse": "تاون هاوس",
+    "manor": "عزبة",
+    "ecohouse": "بيت صديق للبيئة"
+  }
+}

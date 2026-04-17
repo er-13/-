@@ -1,0 +1,16 @@
+{
+  "page_title": "Каталог недвижимости",
+  "types": {
+    "villa": "Вилла",
+    "duplex": "Дуплекс",
+    "quadhouse": "Квадрохаус",
+    "cottage": "Коттедж",
+    "lanehouse": "Лейнхаус",
+    "maisonette": "Мезонет",
+    "mansion": "Особняк",
+    "residence": "Резиденция",
+    "townhouse": "Таунхаус",
+    "manor": "Усадьба",
+    "ecohouse": "Экодом"
+  }
+}
